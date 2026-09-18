@@ -1,0 +1,12 @@
+s3-lambda-dynamodb-event-logger/
+├── README.md
+└── screenshots/
+    ├── 01-s3-bucket-upload.png
+    ├── 02-lambda-trigger.png
+    ├── 03-lambda-code-part1.png
+    ├── 04-lambda-code-part2.png
+    ├── 05-iam-role-permissions.png
+    ├── 06-dynamodb-table.png
+    ├── 07-dynamodb-table-settings.png
+    ├── 08-dynamodb-scan-before-test.png
+    └── 09-dynamodb-scan-result.png
